@@ -25,8 +25,8 @@ collections:
       - https://trakt.tv/users/visorak/lists/disney-shows
     sort_title: ++_Disney+
     summary: Original Shows from Disney+ Network
-    url_poster: https://i.imgur.com/3HLK8I6.jpg
-    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    url_poster: https://i.imgur.com/74T7r7m.jpg
+    url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
     
    Netflix Originals:
@@ -34,8 +34,8 @@ collections:
     trakt_list: https://trakt.tv/users/visorak/lists/netflix-shows
     sort_title: +_Netflix
     summary: Original Shows from Netflix Network
-    url_poster: https://i.imgur.com/3HLK8I6.jpg
-    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    url_poster: https://i.imgur.com/aTMkByh.jpg
+    url_background: https://img5.goodfon.com/original/1920x1080/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg
     add_to_arr: false 
     
    Amazon Originals:
@@ -43,17 +43,17 @@ collections:
     trakt_list: https://trakt.tv/users/visorak/lists/amazon-prime-tv-shows
     sort_title: +++_Amazon
     summary: Original Shows from Amazon Prime Network
-    url_poster: https://i.imgur.com/3HLK8I6.jpg
-    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    url_poster: https://i.imgur.com/BZiJJ9R.jpg
+    url_background: https://i.imgur.com/2jfs7oS.png
     add_to_arr: false
 
-   HBO / HBOMAX Originals:
+   HBO Max Originals:
     smart_label: hbo.asc
     trakt_list: https://trakt.tv/users/mri8879/lists/hbo-max-exclusive-original-content
     sort_title: ++++_HBO
     summary: Original Shows from HBO Network
-    url_poster: https://i.imgur.com/3HLK8I6.jpg
-    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    url_poster: https://i.imgur.com/JH9j7FM.jpg
+    url_background: https://i.imgur.com/u3Xhygt.png
     add_to_arr: false
     
    AppleTV+ Originals:
@@ -61,6 +61,6 @@ collections:
     trakt_list: https://trakt.tv/users/mri8879/lists/apple-tv-original-content
     sort_title: +++++_AppleTV+
     summary: Original Shows from AppleTV+ Network
-    url_poster: https://i.imgur.com/3HLK8I6.jpg
-    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    url_poster: https://i.imgur.com/dUQjCBc.jpg
+    url_background: https://i.imgur.com/X6czDXa.png
     add_to_arr: false
