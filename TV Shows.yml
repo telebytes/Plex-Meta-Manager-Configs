@@ -19,7 +19,7 @@
 ###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
 
 collections:
-  Disney+ hotstar Originals:
+   Disney+ hotstar Originals:
     smart_label: disney+.asc
     trakt_list: 
       - https://trakt.tv/users/visorak/lists/disney-shows
