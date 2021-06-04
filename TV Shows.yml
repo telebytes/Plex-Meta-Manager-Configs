@@ -1,0 +1,66 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##          ___  ___         _ _       _           _                    ##
+##          |  \/  |        | (_)     | |         | |                   ##
+##          | .  . | ___  __| |_  __ _| |__  _   _| |_ ___  ___         ##
+##          | |\/| |/ _ \/ _` | |/ _` | '_ \| | | | __/ _ \/ __|        ##
+##          | |  | |  __/ (_| | | (_| | |_) | |_| | ||  __/\__ \        ##
+##          \_|  |_/\___|\__,_|_|\__,_|_.__/ \__, |\__\___||___/        ##
+##                                            __/ |                     ##
+##                                           |___/                      ##
+##                                                                      ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+
+##NOTE:
+###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
+
+collections:
+  Disney+ hotstar Originals:
+    smart_label: disney+.asc
+    trakt_list: 
+      - https://trakt.tv/users/visorak/lists/disney-shows
+    sort_title: ++_Disney+
+    summary: Original Shows from Disney+ Network
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+    
+   Netflix Originals:
+    smart_label: disney+.asc
+    trakt_list: https://trakt.tv/users/visorak/lists/netflix-shows
+    sort_title: +_Netflix
+    summary: Original Shows from Netflix Network
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false 
+    
+   Amazon Originals:
+    smart_label: amazon.asc
+    trakt_list: https://trakt.tv/users/visorak/lists/amazon-prime-tv-shows
+    sort_title: +++_Amazon
+    summary: Original Shows from Amazon Prime Network
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+
+   HBO / HBOMAX Originals:
+    smart_label: hbo.asc
+    trakt_list: https://trakt.tv/users/mri8879/lists/hbo-max-exclusive-original-content
+    sort_title: ++++_HBO
+    summary: Original Shows from HBO Network
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+    
+   AppleTV+ Originals:
+    smart_label: appletv+.asc
+    trakt_list: https://trakt.tv/users/mri8879/lists/apple-tv-original-content
+    sort_title: +++++_AppleTV+
+    summary: Original Shows from AppleTV+ Network
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
