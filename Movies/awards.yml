@@ -1,0 +1,79 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##          ___  ___         _ _       _           _                    ##
+##          |  \/  |        | (_)     | |         | |                   ##
+##          | .  . | ___  __| |_  __ _| |__  _   _| |_ ___  ___         ##
+##          | |\/| |/ _ \/ _` | |/ _` | '_ \| | | | __/ _ \/ __|        ##
+##          | |  | |  __/ (_| | | (_| | |_) | |_| | ||  __/\__ \        ##
+##          \_|  |_/\___|\__,_|_|\__,_|_.__/ \__, |\__\___||___/        ##
+##                                            __/ |                     ##
+##                                           |___/                      ##
+##                                                                      ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+
+##NOTE:
+###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
+
+collections:
+  DC Animated Universe:
+    imdb_list: https://www.imdb.com/list/ls026134802/
+    collection_order: alpha
+    collection_mode: hide
+    sort_title: +6_DC Animated Universe
+    summary: The Animated Universe of the DC Comics
+    url_poster: https://theposterdb.com/api/assets/72993
+    url_background: https://i.imgur.com/DxcoPwE.jpg
+    add_to_arr: false
+
+
+  Best Picture Nominees (2021 Academy Awards):
+    smart_label: best_pictures21.asc
+    trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-for-best-picture-93rd-academy-awards-oscar-s
+    sort_title: +1_Oscar Nominated Best Picture Movies 2021
+    summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
+    url_poster: https://i.imgur.com/HhpBvRR.png
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+
+
+  Oscar Nominated Movies (2021 Academy Awards):
+    smart_label: oscar_nominated21.asc
+    trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-movies-93rd-academy-awards-oscar-s
+    sort_title: +2_Oscar Nominated Movies 2021
+    summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
+    url_poster: https://i.imgur.com/H05ESeK.png
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+
+
+  Nostalgia Collection (Classics From The 80s & 90s):
+    smart_label: oldies.asc
+    trakt_list: https://trakt.tv/users/hdlists/lists/nostalgiac-movies-from-the-80s-90s
+    sort_title: +5_Nostalgia Collection
+    summary: All The Nostalgiac Movies From The 80s & 90s in One Collection
+    url_poster: https://i.imgur.com/vE8dsdd.jpg
+    url_background: https://i.imgur.com/frz0kly.jpg
+    add_to_arr: false
+
+
+  Sundance Film Festival 2021:
+    smart_label: sundance_film21.asc
+    trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide
+    sort_title: +3_Sundance 2021 Collection
+    summary: Sundance Film Festival 2021 Movie Guide
+    url_poster: https://i.imgur.com/6CqlOaq.png
+    url_background: https://i.imgur.com/goapGVl.jpg
+    add_to_arr: false
+
+  Bengali Films:
+    smart_label: bengali_films.asc
+    imdb_list: https://www.imdb.com/search/title/?primary_language=bn
+    sort_title: +4_Bengali Films
+    summary: Bengali Films Over the Years
+    url_poster: https://i.imgur.com/JYYZwCz.jpg
+    url_background: https://i.imgur.com/yzvZkJj.jpg
+    add_to_arr: false
