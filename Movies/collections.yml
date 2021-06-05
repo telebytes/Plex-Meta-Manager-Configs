@@ -1,0 +1,12 @@
+collections:
+  DC Animated Universe:
+    imdb_list: https://www.imdb.com/list/ls026134802/
+    collection_order: alpha
+    collection_mode: hide
+    sort_title: +6_DC Animated Universe
+    summary: The Animated Universe of the DC Comics
+    url_poster: https://theposterdb.com/api/assets/72993
+    url_background: https://i.imgur.com/DxcoPwE.jpg
+    add_to_arr: false
+    
+ 
