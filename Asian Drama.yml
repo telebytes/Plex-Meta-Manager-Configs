@@ -20,9 +20,8 @@
 
 collections:
   Korean Dramas:
-    smart_label: korean_drama.asc
     trakt_list: https://trakt.tv/users/dandiandi/lists/korean-dramas
-    sort_title: +_Korean Drama
+    sort_title: +1_Korean Drama
     summary: Korean Dramas
     url_poster: https://i.imgur.com/3HLK8I6.jpg
     url_background: https://i.imgur.com/n7youG7.jpg
