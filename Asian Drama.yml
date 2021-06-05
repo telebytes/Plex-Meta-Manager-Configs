@@ -1,0 +1,28 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##          ___  ___         _ _       _           _                    ##
+##          |  \/  |        | (_)     | |         | |                   ##
+##          | .  . | ___  __| |_  __ _| |__  _   _| |_ ___  ___         ##
+##          | |\/| |/ _ \/ _` | |/ _` | '_ \| | | | __/ _ \/ __|        ##
+##          | |  | |  __/ (_| | | (_| | |_) | |_| | ||  __/\__ \        ##
+##          \_|  |_/\___|\__,_|_|\__,_|_.__/ \__, |\__\___||___/        ##
+##                                            __/ |                     ##
+##                                           |___/                      ##
+##                                                                      ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+
+##NOTE:
+###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
+
+collections:
+  Korean Dramas:
+    trakt_list: https://trakt.tv/users/dandiandi/lists/korean-dramas
+    sort_title: +1_Korean Drama
+    summary: Korean Dramas
+    url_poster: https://i.imgur.com/3HLK8I6.jpg
+    url_background: https://i.imgur.com/n7youG7.jpg
+    add_to_arr: false
