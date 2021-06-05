@@ -1,0 +1,26 @@
+templates:
+  network:
+    optional:
+      - network
+    tmdb_network: <<network>>
+    sync_mode: sync
+collections:
+  HBO Max Originals:
+    template: { name: network, network: "49, 2593, 3186, 3308" }
+    sort_title: +4_<<collection_name>>
+    
+  Netflix:
+    template: { name: network, network: 213 }
+    sort_title: +1_<<collection_name>>
+  Prime Video:
+    template: { name: network, network: 1024 }
+    sort_title: +3_<<collection_name>>
+  YouTube:
+    template: { name: network, network: "247, 1436, 4869" }
+    sort_title: +6_<<collection_name>>
+  Disney+ hotstar:
+    template: { name: network, network: "2739, 2919" }
+    sort_title: +2_<<collection_name>>
+  Apple+:
+    template: { name: network, network: 2552 }
+    sort_title: +5_<<collection_name>>
