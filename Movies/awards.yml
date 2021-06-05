@@ -19,17 +19,6 @@
 ###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
 
 collections:
-  DC Animated Universe:
-    imdb_list: https://www.imdb.com/list/ls026134802/
-    collection_order: alpha
-    collection_mode: hide
-    sort_title: +6_DC Animated Universe
-    summary: The Animated Universe of the DC Comics
-    url_poster: https://theposterdb.com/api/assets/72993
-    url_background: https://i.imgur.com/DxcoPwE.jpg
-    add_to_arr: false
-
-
   Best Picture Nominees (2021 Academy Awards):
     smart_label: best_pictures21.asc
     trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-for-best-picture-93rd-academy-awards-oscar-s
@@ -67,13 +56,4 @@ collections:
     summary: Sundance Film Festival 2021 Movie Guide
     url_poster: https://i.imgur.com/6CqlOaq.png
     url_background: https://i.imgur.com/goapGVl.jpg
-    add_to_arr: false
-
-  Bengali Films:
-    smart_label: bengali_films.asc
-    imdb_list: https://www.imdb.com/search/title/?primary_language=bn
-    sort_title: +4_Bengali Films
-    summary: Bengali Films Over the Years
-    url_poster: https://i.imgur.com/JYYZwCz.jpg
-    url_background: https://i.imgur.com/yzvZkJj.jpg
     add_to_arr: false
