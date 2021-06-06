@@ -25,9 +25,9 @@ templates:
     
 collections:
   Trending Shows:
-    template: {name: Add, trakt: https://trakt.tv/shows/trending}
+    template: {name: Add, trakt_trending: 100}
   Popular Shows:
-    template: {name: Add, trakt: https://trakt.tv/shows/popular}
+    template: {name: Add, trakt_popular: 100}
   Latest Shows:
     template: {name: Add, trakt: https://trakt.tv/users/garycrawfordgc/lists/latest-tv-shows}
   
