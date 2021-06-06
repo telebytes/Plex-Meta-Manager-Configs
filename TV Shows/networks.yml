@@ -29,6 +29,7 @@ collections:
     template: { name: network, network: "49, 2593, 3186, 3308" }
     sort_title: +4_HBO
     summary: Original Shows from HBO Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/JH9j7FM.jpg
     url_background: https://i.imgur.com/u3Xhygt.png
     add_to_arr: false    
@@ -36,6 +37,7 @@ collections:
     template: { name: network, network: 213 }
     sort_title: +1_Netflix
     summary: Original Shows from Netflix Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/aTMkByh.jpg
     url_background: https://img5.goodfon.com/original/1920x1080/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg
     add_to_arr: false
@@ -43,6 +45,7 @@ collections:
     template: { name: network, network: 1024 }
     sort_title: +3_Amazon
     summary: Original Shows from Amazon Prime Video Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/BZiJJ9R.jpg
     url_background: https://i.imgur.com/2jfs7oS.png
     add_to_arr: false
@@ -50,6 +53,7 @@ collections:
     template: { name: network, network: "247, 1436, 4869" }
     sort_title: +2_youtube
     summary: Original Shows from Youtube Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/74T7r7m.jpg
     url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
@@ -57,6 +61,7 @@ collections:
     template: { name: network, network: "2739, 2919" }
     sort_title: +2_Disney+
     summary: Original Shows from Disney+ Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/74T7r7m.jpg
     url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
@@ -64,6 +69,7 @@ collections:
     template: { name: network, network: 2552 }
     sort_title: +5_AppleTV+
     summary: Original Shows from AppleTV+ Network
+    collection_mode: hide
     url_poster: https://i.imgur.com/dUQjCBc.jpg
     url_background: https://i.imgur.com/X6czDXa.png
     add_to_arr: false
