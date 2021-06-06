@@ -25,4 +25,4 @@ templates:
     
 collections:
   Latest Movies:
-    template: {name: Add, trakt: "https://trakt.tv/users/giladg/lists/latest-releases"}
+    template: {name: Add, trakt: https://trakt.tv/users/giladg/lists/latest-releases}
