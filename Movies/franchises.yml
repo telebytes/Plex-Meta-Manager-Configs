@@ -27,7 +27,7 @@ collections:
     summary: The DC Animated Movie Universe is an American media franchise and shared universe centered on a series of superhero films, produced by Warner Bros. Animation and DC Entertainment and distributed by Warner Home Video
     url_poster: https://theposterdb.com/api/assets/7237
     url_background: https://i.imgur.com/DxcoPwE.jpg
-    add_to_arr: false
+    add_to_arr: true
     
   DC Extended Universe:
     trakt_list: https://trakt.tv/users/scotttrakt/lists/dc-extended-universe-dceu
@@ -37,7 +37,7 @@ collections:
     summary: The Justice League Universe, more commonly known by its unofficial name as the DC Extended Universe (DCEU), is an American media franchise and shared universe, centered on a series of superhero films distributed by Warner Bros. Pictures, based on characters that appear in publications by DC Comics. The first film in the DCEU was Man of Steel (2013), which was followed by Batman v Superman: Dawn of Justice (2016), Suicide Squad (2016), and Wonder Woman (2017). Future films include Justice League (2017), Aquaman (2018), Shazam! (2019), Wonder Woman 2 (2019), Cyborg (2020), and Green Lantern Corps (2020). Other projects are also in various stages of development, including Suicide Squad 2, Justice League Dark, Flashpoint, The Batman, Batgirl, a Justice League sequel, Gotham City Sirens, Nightwing, an untitled Joker and Harley Quinn film, a second Superman solo film, and untitled solo films for Black Adam, Deadshot, and Lobo.
     url_poster: https://theposterdb.com/api/assets/26760
     url_background: https://i.imgur.com/I4idh29.jpg
-    add_to_arr: false
+    add_to_arr: true
   
   Marvel Animated Universe:
     trakt_list: https://trakt.tv/users/j0shpointoh/lists/marvel-animated
@@ -47,14 +47,14 @@ collections:
     summary: The Marvel Animated Universe (MAU) is a fan term for cartoons based on Marvel Comics characters that share some continuity. The Marvel Animated Universe started in 1992 and ended in 2000 and consists of eight different television series.
     url_poster: https://theposterdb.com/api/assets/26760
     url_background: https://i.imgur.com/I4idh29.jpg
-    add_to_arr: false
+    add_to_arr: true
     
-  Marvel Cinematic Universe:
+  The Infinity Saga:
     trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     collection_order: alpha
     collection_mode: hide
     sort_title: +7_Marvel Cinematic Universe
     summary: The Marvel Cinematic Universe is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics.
-    url_poster: https://theposterdb.com/api/assets/26760
-    url_background: https://i.imgur.com/I4idh29.jpg
+    url_poster: https://theposterdb.com/api/assets/99084
+    url_background: https://i.imgur.com/9pqrJsQ.jpg
     add_to_arr: true
