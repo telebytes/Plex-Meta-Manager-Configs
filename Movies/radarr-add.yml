@@ -27,6 +27,6 @@ collections:
   Latest Movies:
     template: {name: Add, trakt: https://trakt.tv/users/giladg/lists/latest-releases}
   Trending Movies:
-    template: {name: Add, trakt: https://trakt.tv/movies/trending}    
+    template: {name: Add, trakt_trending: 100}
   Popular Movies:
-    template: {name: Add, trakt: https://trakt.tv/movies/popular}
+    template: {name: Add, trakt_popular: 100}
