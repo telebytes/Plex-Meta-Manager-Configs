@@ -32,7 +32,7 @@ collections:
   IMDB Top 250:
     smart_label: oldies.asc
     trakt_list: https://trakt.tv/users/justin/lists/imdb-top-rated-movies
-    sort_title: +5_IMDB 250
+    sort_title: +4_IMDB 250
     summary: Top 250 Movies from IMDB over the years
     collection_mode: hide
     url_poster: https://i.imgur.com/XI1HbVj.jpg
