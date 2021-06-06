@@ -1,1 +1,10 @@
-
+templates:
+  Add:
+    collection_order: release
+    build_collection: false
+    radarr_add: true
+    trakt_list: <<trakt>>
+    
+    
+  Latest Movies:
+    template: {name: Add, trakt: https://trakt.tv/users/giladg/lists/latest-releases}
