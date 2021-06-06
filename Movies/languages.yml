@@ -22,7 +22,7 @@ collections:
   Bengali Films:
     smart_label: bengali_films.asc
     imdb_list: https://www.imdb.com/search/title/?primary_language=bn
-    sort_title: +4_Bengali Films
+    sort_title: +5_Bengali Films
     summary: Bengali Films Over the Years
     collection_mode: hide
     url_poster: https://i.imgur.com/JYYZwCz.jpg
