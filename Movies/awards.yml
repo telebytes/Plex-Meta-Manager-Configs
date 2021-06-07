@@ -24,7 +24,6 @@ collections:
     trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-for-best-picture-93rd-academy-awards-oscar-s
     sort_title: +1_Oscar Nominated Best Picture Movies 2021
     summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
-    collection_mode: hide
     url_poster: https://i.imgur.com/HhpBvRR.png
     url_background: https://i.imgur.com/0Kao9gY.jpeg
     add_to_arr: false
@@ -34,7 +33,6 @@ collections:
     trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-movies-93rd-academy-awards-oscar-s
     sort_title: +2_Oscar Nominated Movies 2021
     summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
-    collection_mode: hide
     url_poster: https://i.imgur.com/H05ESeK.png
     url_background: https://i.imgur.com/0Kao9gY.jpeg
     add_to_arr: false
@@ -44,7 +42,6 @@ collections:
     trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide
     sort_title: +3_Sundance 2021 Collection
     summary: Sundance Film Festival 2021 Movie Guide
-    collection_mode: hide
     url_poster: https://i.imgur.com/6CqlOaq.png
     url_background: https://i.imgur.com/goapGVl.jpg
     add_to_arr: false
