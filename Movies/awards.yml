@@ -20,7 +20,7 @@
 
 collections:
   Best Picture Nominees (2021 Academy Awards):
-    smart_label: best_pictures21.asc
+    smart_label: critic_rating.desc
     trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-for-best-picture-93rd-academy-awards-oscar-s
     sort_title: +1_Oscar Nominated Best Picture Movies 2021
     summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
@@ -29,7 +29,7 @@ collections:
     add_to_arr: false
 
   Oscar Nominated Movies (2021 Academy Awards):
-    smart_label: oscar_nominated21.asc
+    smart_label: critic_rating.desc
     trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-movies-93rd-academy-awards-oscar-s
     sort_title: +2_Oscar Nominated Movies 2021
     summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
@@ -38,7 +38,7 @@ collections:
     add_to_arr: false
 
   Sundance Film Festival 2021:
-    smart_label: sundance_film21.asc
+    smart_label: critic_rating.desc
     trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide
     sort_title: +3_Sundance 2021 Collection
     summary: Sundance Film Festival 2021 Movie Guide
