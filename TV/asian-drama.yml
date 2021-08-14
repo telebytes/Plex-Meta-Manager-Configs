@@ -21,7 +21,7 @@
 collections:
   Korean Dramas:
     trakt_list: https://trakt.tv/users/dandiandi/lists/korean-dramas
-    sort_title: +1_Korean Drama
+    sort_title: +6_Korean Drama
     summary: Korean Dramas
     collection_mode: hide
     url_poster: https://i.imgur.com/3HLK8I6.jpg
