@@ -54,8 +54,8 @@ collections:
     sort_title: +2_youtube
     summary: Original Shows from Youtube Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/74T7r7m.jpg
-    url_background: https://i.imgur.com/3IYfz1n.jpg
+    url_poster: https://i.imgur.com/pxhZqrN.jpg
+    url_background: https://i.imgur.com/tjdtklp.png
     add_to_arr: false
   Disney+ hotstar:
     template: { name: network, network: "2739, 2919" }
