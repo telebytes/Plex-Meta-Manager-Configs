@@ -43,6 +43,6 @@ collections:
       all:
         resolution: 4K
     filters:
-      
+        filepth: Atmos
     item_overlay: 4K-Dolby
     build_collection: false
