@@ -21,7 +21,11 @@
 collections:
   Indian Movies:
     smart_label: audience_rating.desc
-    
+    plex_search:
+      country: India
+    sort_title: +4_Indian Movies
+    summary: Bengali Films Over the Years
+    add_to_arr: false
   
   
   Bengali Films:
