@@ -20,6 +20,7 @@
 
 collections:
   Indian Movies:
+    smart_label: audience_rating.desc
     
   
   
