@@ -29,9 +29,9 @@ collections:
     add_to_arr: false
  
   IMDB Top 250:
-    smart_label: audience_rating.desc
-    trakt_list: https://trakt.tv/users/justin/lists/imdb-top-rated-movies
+    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=25
     sort_title: +4_IMDB 250
+    collection_order: custom
     summary: Top 250 Movies from IMDB over the years
     url_poster: https://i.imgur.com/XI1HbVj.jpg
     url_background: https://i.imgur.com/E4z4kN2.jpg
