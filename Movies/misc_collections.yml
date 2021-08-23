@@ -22,7 +22,7 @@ collections:
   Nostalgia Collection (Classics From The 80s & 90s):
     smart_label: audience_rating.desc
     trakt_list: https://trakt.tv/users/hdlists/lists/nostalgiac-movies-from-the-80s-90s
-    sort_title: +6_Nostalgia Collection
+    sort_title: +4_Nostalgia Collection
     summary: All The Nostalgiac Movies From The 80s & 90s in One Collection
     url_poster: https://i.imgur.com/vE8dsdd.jpg
     url_background: https://i.imgur.com/frz0kly.jpg
