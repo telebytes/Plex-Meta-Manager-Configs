@@ -20,21 +20,20 @@
 
 templates:
   network:
-    optional:
-      - network
-    tmdb_network: <<network>>
+    plex_search:
+      network: <<network>>
     sync_mode: sync
 collections:
   HBO Max Originals:
-    template: { name: network, network: "49, 2593, 3186, 3308" }
+    template: { name: network, network: "HBO, HBO Max" }
     sort_title: +4_HBO
     summary: Original Shows from HBO Network
     collection_mode: hide
     url_poster: https://i.imgur.com/JH9j7FM.jpg
     url_background: https://i.imgur.com/u3Xhygt.png
-    add_to_arr: false    
+    add_to_arr: false
   Netflix:
-    template: { name: network, network: 213 }
+    template: { name: network, network: "Netflix" }
     sort_title: +1_Netflix
     summary: Original Shows from Netflix Network
     collection_mode: hide
@@ -42,7 +41,7 @@ collections:
     url_background: https://img5.goodfon.com/original/1920x1080/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg
     add_to_arr: false
   Prime Video Originals:
-    template: { name: network, network: 1024 }
+    template: { name: network, network: "Amazon" }
     sort_title: +3_Amazon
     summary: Original Shows from Amazon Prime Video Network
     collection_mode: hide
@@ -50,7 +49,7 @@ collections:
     url_background: https://i.imgur.com/2jfs7oS.png
     add_to_arr: false
   YouTube:
-    template: { name: network, network: "247, 1436, 4869" }
+    template: { name: network, network: "YouTube Premium, YouTube" }
     sort_title: +2_youtube
     summary: Original Shows from Youtube Network
     collection_mode: hide
@@ -58,7 +57,7 @@ collections:
     url_background: https://i.imgur.com/tjdtklp.png
     add_to_arr: false
   Disney+ hotstar:
-    template: { name: network, network: "2739, 2919" }
+    template: { name: network, network: "Disney+, Disney+ Hotstar" }
     sort_title: +2_Disney+
     summary: Original Shows from Disney+ Network
     collection_mode: hide
@@ -66,7 +65,7 @@ collections:
     url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
   Apple+:
-    template: { name: network, network: 2552 }
+    template: { name: network, network: "Apple TV+" }
     sort_title: +5_AppleTV+
     summary: Original Shows from AppleTV+ Network
     collection_mode: hide
