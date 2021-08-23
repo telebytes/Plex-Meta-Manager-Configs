@@ -30,7 +30,7 @@ collections:
  
   IMDB Top 250:
     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=25
-    sort_title: +4_IMDB 250
+    sort_title: +2_IMDB 250
     collection_order: custom
     summary: Top 250 Movies from IMDB over the years
     url_poster: https://i.imgur.com/XI1HbVj.jpg
