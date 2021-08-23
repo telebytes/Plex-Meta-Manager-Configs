@@ -28,11 +28,11 @@ collections:
     add_to_arr: false
   
   
-  Bengali Films:
-    smart_label: audience_rating.desc
-    imdb_list: https://www.imdb.com/search/title/?primary_language=bn
-    sort_title: +5_Bengali Films
-    summary: Bengali Films Over the Years
-    url_poster: https://i.imgur.com/JYYZwCz.jpg
-    url_background: https://i.imgur.com/yzvZkJj.jpg
-    add_to_arr: false
+#  Bengali Films:
+#    smart_label: audience_rating.desc
+#    imdb_list: https://www.imdb.com/search/title/?primary_language=bn
+#    sort_title: +5_Bengali Films
+#    summary: Bengali Films Over the Years
+#    url_poster: https://i.imgur.com/JYYZwCz.jpg
+#    url_background: https://i.imgur.com/yzvZkJj.jpg
+#    add_to_arr: false
