@@ -25,45 +25,45 @@ templates:
     sync_mode: sync
     sort_title: +2_<<num>><<collection_name>>
 collections:
-  HBO Max Originals:
+  HBO Max:
     template: { name: network, network: "HBO, HBO Max", num: 4 }
     summary: Original Shows from HBO Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/JH9j7FM.jpg
+    url_poster: https://i.imgur.com/sZ1hj9z.png
     url_background: https://i.imgur.com/u3Xhygt.png
     add_to_arr: false
   Netflix:
     template: { name: network, network: "Netflix", num: 1 }
     summary: Original Shows from Netflix Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/aTMkByh.jpg
+    url_poster: https://i.imgur.com/QbAK6Vb.png
     url_background: https://img5.goodfon.com/original/1920x1080/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg
     add_to_arr: false
-  Prime Video Originals:
+  Prime Video:
     template: { name: network, network: "Amazon", num: 3 }
     summary: Original Shows from Amazon Prime Video Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/BZiJJ9R.jpg
+    url_poster: https://i.imgur.com/CL11uOh.png
     url_background: https://i.imgur.com/2jfs7oS.png
     add_to_arr: false
   YouTube:
     template: { name: network, network: "YouTube Premium, YouTube", num: 5 }
     summary: Original Shows from Youtube Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/pxhZqrN.jpg
+    url_poster: https://i.imgur.com/ut6VnEY.png
     url_background: https://i.imgur.com/tjdtklp.png
     add_to_arr: false
   Disney+ hotstar:
     template: { name: network, network: "Disney+, Disney+ Hotstar", num: 2 }
     summary: Original Shows from Disney+ Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/74T7r7m.jpg
+    url_poster: https://i.imgur.com/rMeUuh9.png
     url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
   Apple+:
     template: { name: network, network: "Apple TV+", num: 6 }
     summary: Original Shows from AppleTV+ Network
     collection_mode: hide
-    url_poster: https://i.imgur.com/dUQjCBc.jpg
+    url_poster: https://i.imgur.com/p8wlTY8.png
     url_background: https://i.imgur.com/X6czDXa.png
     add_to_arr: false
