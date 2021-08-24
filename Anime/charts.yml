@@ -51,13 +51,18 @@ collections:
     anidb_popular: 30
     anilist_popular: 30
     summary: Popular Anime across the internet
+    url_poster: https://i.imgur.com/rDjkyAf.jpg
   Top Rated:
     template: { name: Chart, num: 2 }
     anilist_top_rated: 50
     summary: Top Rated Anime across the internet
+    url_poster: https://i.imgur.com/e4vMs6H.jpg
 #  Fall Season 2021:
-#    template: {name: Anime Fall Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-fall-2021}
+#    template: {name: Anime Fall Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-fall-2021, num: 5 }
+#    url_poster: https://i.imgur.com/qDD6WIX.jpg
 #  Summer Season 2021:
-#    template: {name: Anime Summer Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-summer-2021}
+#    template: {name: Anime Summer Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-summer-2021, num: 4 }
+#    url_poster: https://i.imgur.com/klEL6Vh.jpg
 #  Spring Season 2021:
-#    template: {name: Anime Spring Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-spring-2021}
+#    template: {name: Anime Spring Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-spring-2021, num: 3 }
+#    url_poster: https://i.imgur.com/b8gOC6o.jpg
