@@ -14,6 +14,9 @@
 ##           ..Movie Library Collections YML Confg For..                ##
 ##         https://github.com/meisnate12/Plex-Meta-Manager              ##
 ##########################################################################
+##                         Genres Collection                            ##
+##########################################################################
+
 templates:
   IMDb Genre:
     default:
