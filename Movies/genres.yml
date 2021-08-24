@@ -21,7 +21,7 @@ templates:
   Plex Genre:
     plex_search:
       genre: <<genre>>
-    sort_title: +3_<<num>><<collection_name>>
+    sort_title: +4_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
 collections:
