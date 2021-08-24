@@ -26,47 +26,42 @@ templates:
     sort_title: +2_<<num>><<collection_name>>
 collections:
   HBO Max Originals:
-    template: { name: network, network: "HBO, HBO Max" }
+    template: { name: network, network: "HBO, HBO Max", num: 4 }
     summary: Original Shows from HBO Network
     collection_mode: hide
     url_poster: https://i.imgur.com/JH9j7FM.jpg
     url_background: https://i.imgur.com/u3Xhygt.png
     add_to_arr: false
   Netflix:
-    template: { name: network, network: "Netflix" }
-    sort_title: +1_Netflix
+    template: { name: network, network: "Netflix", num: 1 }
     summary: Original Shows from Netflix Network
     collection_mode: hide
     url_poster: https://i.imgur.com/aTMkByh.jpg
     url_background: https://img5.goodfon.com/original/1920x1080/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg
     add_to_arr: false
   Prime Video Originals:
-    template: { name: network, network: "Amazon" }
-    sort_title: +3_Amazon
+    template: { name: network, network: "Amazon", num: 3 }
     summary: Original Shows from Amazon Prime Video Network
     collection_mode: hide
     url_poster: https://i.imgur.com/BZiJJ9R.jpg
     url_background: https://i.imgur.com/2jfs7oS.png
     add_to_arr: false
   YouTube:
-    template: { name: network, network: "YouTube Premium, YouTube" }
-    sort_title: +2_youtube
+    template: { name: network, network: "YouTube Premium, YouTube", num: 5 }
     summary: Original Shows from Youtube Network
     collection_mode: hide
     url_poster: https://i.imgur.com/pxhZqrN.jpg
     url_background: https://i.imgur.com/tjdtklp.png
     add_to_arr: false
   Disney+ hotstar:
-    template: { name: network, network: "Disney+, Disney+ Hotstar" }
-    sort_title: +2_Disney+
+    template: { name: network, network: "Disney+, Disney+ Hotstar", num: 2 }
     summary: Original Shows from Disney+ Network
     collection_mode: hide
     url_poster: https://i.imgur.com/74T7r7m.jpg
     url_background: https://i.imgur.com/3IYfz1n.jpg
     add_to_arr: false
   Apple+:
-    template: { name: network, network: "Apple TV+" }
-    sort_title: +5_AppleTV+
+    template: { name: network, network: "Apple TV+", num: 6 }
     summary: Original Shows from AppleTV+ Network
     collection_mode: hide
     url_poster: https://i.imgur.com/dUQjCBc.jpg
