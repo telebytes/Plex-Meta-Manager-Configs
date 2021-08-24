@@ -3,6 +3,31 @@ templates:
     sort_title: +1_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
+  Anime Fall Seasons :
+    trakt_list: <<traktList>>
+    sort_title: +2_<<num>>Fall <<year>>
+    sync_mode: sync
+    summary: Anime premiering during Fall <<year>>
+    collection_order: release
+  Anime Winter Seasons :
+    trakt_list: <<traktList>>
+    sort_title: +2_<<num>>Winter <<year>>
+    sync_mode: sync
+    summary: Anime premiering during Winter <<year>>-<<next>>
+    collection_order: release
+  Anime Spring Seasons :
+    trakt_list: +2_<<num>><<traktList>>
+    sort_title: Spring <<year>>
+    sync_mode: sync
+    summary: Anime premiering during Spring <<year>>
+    collection_order: release
+  Anime Summer Seasons :
+    trakt_list: +2_<<num>><<traktList>>
+    sort_title: Summer <<year>>
+    sync_mode: sync
+    summary: Anime premiering during Summer <<year>>
+    collection_order: release
+
 collections:
   Popular:
     template: { name: Chart, num: 1 }
@@ -13,3 +38,9 @@ collections:
     template: { name: Chart, num: 2 }
     anilist_top_rated: 50
     summary: Top Rated Anime across the internet
+  Fall Season 2021:
+    template: {name: Anime Fall Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-fall-2021}
+  Summer Season 2021:
+    template: {name: Anime Summer Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-summer-2021}
+  Spring Season 2021:
+    template: {name: Anime Spring Seasons, year: 2021, traktList: https://trakt.tv/users/sp1ti/lists/anime-spring-2021}
