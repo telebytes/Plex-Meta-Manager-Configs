@@ -14,9 +14,8 @@
 ##           ..Movie Library Collections YML Confg For..                ##
 ##         https://github.com/meisnate12/Plex-Meta-Manager              ##
 ##########################################################################
-
-##NOTE:
-###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
+##                 Language and Countries Collection                    ##
+##########################################################################
 
 collections:
   Indian Movies:
