@@ -33,14 +33,14 @@ templates:
     summary: Anime premiering during Winter <<year>>-<<next>>
     collection_order: release
   Anime Spring Seasons :
-    trakt_list: +2_<<num>><<traktList>>
-    sort_title: Spring <<year>>
+    trakt_list: <<traktList>>
+    sort_title: +2_<<num>>Spring <<year>>
     sync_mode: sync
     summary: Anime premiering during Spring <<year>>
     collection_order: release
   Anime Summer Seasons :
-    trakt_list: +2_<<num>><<traktList>>
-    sort_title: Summer <<year>>
+    trakt_list: <<traktList>>
+    sort_title: +2_<<num>>Summer <<year>>
     sync_mode: sync
     summary: Anime premiering during Summer <<year>>
     collection_order: release
