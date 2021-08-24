@@ -1,0 +1,31 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##          ___  ___         _ _       _           _                    ##
+##          |  \/  |        | (_)     | |         | |                   ##
+##          | .  . | ___  __| |_  __ _| |__  _   _| |_ ___  ___         ##
+##          | |\/| |/ _ \/ _` | |/ _` | '_ \| | | | __/ _ \/ __|        ##
+##          | |  | |  __/ (_| | | (_| | |_) | |_| | ||  __/\__ \        ##
+##          \_|  |_/\___|\__,_|_|\__,_|_.__/ \__, |\__\___||___/        ##
+##                                            __/ |                     ##
+##                                           |___/                      ##
+##                                                                      ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+##                         Genres Collection                            ##
+##########################################################################
+
+templates:
+  Plex Genre:
+    plex_search:
+      genre: <<genre>>
+    sort_title: +3_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
+collections:
+  Documentary Movies:
+    template: { name: Plex Genre, genre: Documentary, num: 1 }
+    summary: Documentary films from all time
+    add_to_arr: false
