@@ -10,6 +10,7 @@ collections:
     tmdb_trending_daily: 10
     tmdb_trending_weekly: 10
     summary: Shows Trending across the internet
+    url_poster: https://i.imgur.com/1Xmnk78.jpg
   Top Rated:
     template: { name: Chart, num: 2 }
     imdb_list:
@@ -17,7 +18,10 @@ collections:
       limit: 100
     tmdb_top_rated: 100
     summary: Top Rated Movies across the internet
+    url_poster: https://i.imgur.com/Bu28pYi.jpg
   Emmy Winners:
     template: { name: Chart, num: 3 }
     imdb_list: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=emmy_winner
     summary: Emmy Winning Shows
+    url_poster: https://i.imgur.com/0RC3dDs.jpg
+    
