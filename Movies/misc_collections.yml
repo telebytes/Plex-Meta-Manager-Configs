@@ -19,20 +19,4 @@
 ###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
 
 collections:  
-  Nostalgia Collection (Classics From The 80s & 90s):
-    smart_label: audience_rating.desc
-    trakt_list: https://trakt.tv/users/hdlists/lists/nostalgiac-movies-from-the-80s-90s
-    sort_title: +4_Nostalgia Collection
-    summary: All The Nostalgiac Movies From The 80s & 90s in One Collection
-    url_poster: https://i.imgur.com/vE8dsdd.jpg
-    url_background: https://i.imgur.com/frz0kly.jpg
-    add_to_arr: false
- 
-  IMDB Top 250:
-    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=25
-    sort_title: +2_IMDB 250
-    collection_order: custom
-    summary: Top 250 Movies from IMDB over the years
-    url_poster: https://i.imgur.com/XI1HbVj.jpg
-    url_background: https://i.imgur.com/E4z4kN2.jpg
-    add_to_arr: false
+
