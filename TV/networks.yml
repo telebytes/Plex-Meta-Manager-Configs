@@ -23,10 +23,10 @@ templates:
     plex_search:
       network: <<network>>
     sync_mode: sync
+    sort_title: +2_<<num>><<collection_name>>
 collections:
   HBO Max Originals:
     template: { name: network, network: "HBO, HBO Max" }
-    sort_title: +4_HBO
     summary: Original Shows from HBO Network
     collection_mode: hide
     url_poster: https://i.imgur.com/JH9j7FM.jpg
