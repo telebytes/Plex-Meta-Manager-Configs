@@ -63,6 +63,7 @@ collections:
     tmdb_trending_daily: 10
     tmdb_trending_weekly: 10
     summary: Movies Trending across the internet
+    url_poster: https://i.imgur.com/TvFVfeS.jpg
     
   Popular:
     template: { name: Chart, num: 2 }
@@ -71,3 +72,4 @@ collections:
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
       limit: 40
     summary: Popular Movies across the internet
+    url_poster: https://i.imgur.com/HhAHgQV.jpg
