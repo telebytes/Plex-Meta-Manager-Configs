@@ -24,9 +24,28 @@ templates:
     sort_title: +4_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
+ Plex Country:
+    plex_search:
+      country: <<country>>
+    sort_title: +4_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
 collections:
   Documentary Movies:
     template: { name: Plex Genre, genre: Documentary, num: 1 }
     summary: Documentary films from all time
     url_poster: https://theposterdb.com/api/assets/51430
     add_to_arr: false
+  Bollywood Movies:
+    template: { name: Plex Country, country: India, num: 2 }
+    summary: Indian Films Over the Years
+    url_poster: https://theposterdb.com/api/assets/125875
+    add_to_arr: false  
+#  Bengali Films:
+#    smart_label: audience_rating.desc
+#    imdb_list: https://www.imdb.com/search/title/?primary_language=bn
+#    sort_title: +5_Bengali Films
+#    summary: Bengali Films Over the Years
+#    url_poster: https://i.imgur.com/JYYZwCz.jpg
+#    url_background: https://i.imgur.com/yzvZkJj.jpg
+#    add_to_arr: false
