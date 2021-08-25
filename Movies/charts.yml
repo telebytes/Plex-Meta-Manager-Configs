@@ -49,8 +49,9 @@ collections:
     add_to_arr: false
  
   IMDB Top 250:
-    template: { name: Chart, num: 3 }
+    sort_title: +1_3IMDB_Top_250
     imdb_list: https://trakt.tv/users/justin/lists/imdb-top-rated-movies?sort=rank,asc
+    sync_mode: sync
     collection_order: custom
     summary: Top 250 Movies from IMDB over the years
     url_poster: https://i.imgur.com/XI1HbVj.jpg
