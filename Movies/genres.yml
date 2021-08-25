@@ -24,7 +24,7 @@ templates:
     sort_title: +4_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
- Plex Country:
+  Plex Country:
     plex_search:
       country: <<country>>
     sort_title: +4_<<num>><<collection_name>>
