@@ -1,0 +1,31 @@
+metadata:
+  "Money Heist":
+    sort_title: Money Heist
+    summary: >-
+          To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of       them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.
+    seasons:
+      1:
+        title: "Part 1"
+        summary: >-
+              Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.
+        url_poster: https://i.imgur.com/cVyMPUC.jpg
+      2:
+        title: "Part 2"
+        summary: >-
+              As the police close in on the Professor's identity, his lack of communication with the Mint team leads to mutiny and the arrest of one of the robbers.
+        url_poster:  https://i.imgur.com/YB5m5x3.jpg
+      3:
+        title: "Part 3"
+        summary: >-
+              The Professor and his team reunite to free Río, this time targeting the Bank of Spain with a daring and dangerous new plan. The Resistance continues.
+        url_poster: https://i.imgur.com/yk1f0vz.jpg              
+      4:
+        title: "Part 4"
+        summary: >-
+              Lives are on the line as the Professor's plan begins to unravel and the crew must fend off enemies from both inside and outside the Bank of Spain.
+        url_poster: https://i.imgur.com/9skQ9t2.jpg             
+    episodes:
+      S01E01:
+        rating: 9.1
+      S03E21:
+        summary: The Epic Series Final of Avatar The Last Airbender
