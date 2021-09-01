@@ -46,25 +46,32 @@ metadata:
     episodes:
       S01E01:
         title: Episode 1
-        summary: The Professor recruits a young female robber and seven other criminals for a grand heist, targeting the Royal Mint of Spain.
+        summary: >- 
+              The Professor recruits a young female robber and seven other criminals for a grand heist, targeting the Royal Mint of Spain.
       S01E02:
         title: Episode 2      
-        summary: Hostage negotiator Raquel makes initial contact with the Professor. One of the hostages is a crucial part of the thieves' plans.
+        summary: >-
+              Hostage negotiator Raquel makes initial contact with the Professor. One of the hostages is a crucial part of the thieves' plans.
       S01E03:
         title: Episode 3     
-        summary: Police grab an image of the face of one of the robbers. Raquel is suspicious of the gentleman she meets at a bar.
+        summary: >-
+              Police grab an image of the face of one of the robbers. Raquel is suspicious of the gentleman she meets at a bar.
       S01E04:
         title: Episode 4      
-        summary: Raquel suffers a personal crisis with her ex. The hostages are frightened by the gunshots they overheard. The thieves argue among themselves.      
+        summary: >- 
+              Raquel suffers a personal crisis with her ex. The hostages are frightened by the gunshots they overheard. The thieves argue among themselves.      
       S01E05:
         title: Episode 5      
-        summary: The thieves let a medical team enter the Mint, and an undercover policeman sneaks in with them. Can the Professor stay one step ahead of Raquel?
+        summary: >-
+              The thieves let a medical team enter the Mint, and an undercover policeman sneaks in with them. Can the Professor stay one step ahead of Raquel?
       S01E06:
         title: Episode 6      
-        summary: Mónica's condition worsens. The Professor enjoys the spoils of his latest trick. Río is disturbed by news he sees on the television.
+        summary: >-
+              Mónica's condition worsens. The Professor enjoys the spoils of his latest trick. Río is disturbed by news he sees on the television.
       S01E07:
         title: Episode 7      
-        summary: A break in the investigation and a mistake by one of the thieves puts the Professor at serious risk of being discovered.
+        summary: >-
+              A break in the investigation and a mistake by one of the thieves puts the Professor at serious risk of being discovered.
       S01E08:
         title: Episode 8      
         summary: Tokyo catches Alison chatting with Río and confronts her. The police suspect a spy is in their midst.       
@@ -82,7 +89,8 @@ metadata:
         summary: Arturo continues to formulate an escape plan for a group of hostages. The Professor reveals who gave him the idea for the heist.       
       S01E13:
         title: Episode 13      
-        summary: The Professor meets Raquel's mother under stressful circumstances. At the Mint, the thieves offer the hostages a decision: money or freedom?        
+        summary: >-
+              The Professor meets Raquel's mother under stressful circumstances. At the Mint, the thieves offer the hostages a decision: money or freedom?        
       S02E01:
         title: Episode 1     
         summary: As forensic experts comb the Toledo country house for DNA, the Professor loses control. Inside the Mint, the robbers' nerves reach a breaking point.      
