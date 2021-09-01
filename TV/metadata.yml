@@ -8,97 +8,135 @@ metadata:
         title: "Part 1"
         summary: >-
               Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.
-        url_poster: https://i.imgur.com/cVyMPUC.jpg
+#        url_poster: https://i.imgur.com/cVyMPUC.jpg
       2:
         title: "Part 2"
         summary: >-
               As the police close in on the Professor's identity, his lack of communication with the Mint team leads to mutiny and the arrest of one of the robbers.
-        url_poster:  https://i.imgur.com/YB5m5x3.jpg
+#        url_poster:  https://i.imgur.com/YB5m5x3.jpg
       3:
         title: "Part 3"
         summary: >-
               The Professor and his team reunite to free Río, this time targeting the Bank of Spain with a daring and dangerous new plan. The Resistance continues.
-        url_poster: https://i.imgur.com/yk1f0vz.jpg              
+#       url_poster: https://i.imgur.com/yk1f0vz.jpg              
       4:
         title: "Part 4"
         summary: >-
               Lives are on the line as the Professor's plan begins to unravel and the crew must fend off enemies from both inside and outside the Bank of Spain.
-        url_poster: https://i.imgur.com/9skQ9t2.jpg             
+#        url_poster: https://i.imgur.com/9skQ9t2.jpg             
     episodes:
       S01E01:
+        title: Episode 1
         summary: The Professor recruits a young female robber and seven other criminals for a grand heist, targeting the Royal Mint of Spain.
       S01E02:
+        title: Episode 2      
         summary: Hostage negotiator Raquel makes initial contact with the Professor. One of the hostages is a crucial part of the thieves' plans.
       S01E03:
+        title: Episode 3     
         summary: Police grab an image of the face of one of the robbers. Raquel is suspicious of the gentleman she meets at a bar.
       S01E04:
+        title: Episode 4      
         summary: Raquel suffers a personal crisis with her ex. The hostages are frightened by the gunshots they overheard. The thieves argue among themselves.      
       S01E05:
+        title: Episode 5      
         summary: The thieves let a medical team enter the Mint, and an undercover policeman sneaks in with them. Can the Professor stay one step ahead of Raquel?
       S01E06:
+        title: Episode 6      
         summary: Mónica's condition worsens. The Professor enjoys the spoils of his latest trick. Río is disturbed by news he sees on the television.
       S01E07:
+        title: Episode 7      
         summary: A break in the investigation and a mistake by one of the thieves puts the Professor at serious risk of being discovered.
       S01E08:
+        title: Episode 8      
         summary: Tokyo catches Alison chatting with Río and confronts her. The police suspect a spy is in their midst.       
       S01E09:
+        title: Episode 9     
         summary: The Professor races to stop a witness from identifying him. Berlín seeks revenge once his own name is revealed and slandered in the press.               
       S01E10:
+        title: Episode 10      
         summary: Raquel enters the Mint to ascertain that all of the hostages are still alive and well. Nairobi gives Alison advice.       
       S01E11:
+        title: Episode 11      
         summary: Ángel and Raquel question each other's loyalties. Mónica makes a move on Denver. Río is faced with a difficult decision.      
       S01E12:
+        title: Episode 12     
         summary: Arturo continues to formulate an escape plan for a group of hostages. The Professor reveals who gave him the idea for the heist.       
       S01E13:
+        title: Episode 13      
         summary: The Professor meets Raquel's mother under stressful circumstances. At the Mint, the thieves offer the hostages a decision: money or freedom?        
       S02E01:
+        title: Episode 1     
         summary: As forensic experts comb the Toledo country house for DNA, the Professor loses control. Inside the Mint, the robbers' nerves reach a breaking point.      
       S02E02:
+        title: Episode 2      
         summary: The police interrogate the first robber to be captured. Furious over Berlín's recent actions, Río takes a stand against him.        
       S02E03:
+        title: Episode 3     
         summary: Hoping to learn the Professor's identity, Raquel appeals to her captive's emotions. A punishment for "high treason" sparks a revolt among the robbers.
       S02E04:
+        title: Episode 4      
         summary: Recognizing their plan isn't working out, the robbers instead aim to win over the public via the press. Raquel plots a trap to capture the Professor.       
       S02E05:
+        title: Episode 5      
         summary: Arturo tries to set another escape plan in motion. During a conversation with Salva, Raquel spots a tiny detail that gets her mind racing.        
       S02E06:
+        title: Episode 6     
         summary: After confessing a long-held secret, Moscow loses his son's trust. A contingency plan to free Tokyo hits a snag, forcing her to improvise.        
       S02E07:
+        title: Episode 7      
         summary: With one of their own critically injured, the robbers race against time to save his life. During a moment alone, Ariadna makes a confession to Mónica.        
       S02E08:
+        title: Episode 8     
         summary: After being removed from the case due to her relationship with the Professor, Raquel sets out to conduct her own search for the mastermind.        
       S02E09:
+        title: Episode 9      
         summary: As the police enter the Mint, Berlín leads the robbers in a final showdown. Will they escape with the 984 million euros -- and with their lives intact?        
       S03E01:
+        title: We're Back     
         summary: When Río is captured, a distraught Tokyo turns to the Professor for help. Armed with a bold new plan, they reunite the team in order to rescue him.        
       S03E02:
+        title: Aikido     
         summary: The Professor recruits Martín to put his brother's plan into action and target the Bank of Spain. First step? Create total chaos.       
       S03E03:
+        title: 48 Meters Underground     
         summary: Tokyo and Nairobi's efforts go drastically awry. The Professor recalls Berlín detailing how they'd steal the gold from the water-logged vault.  
       S03E04:
+        title: It's Dolphin Time     
         summary: Tamayo's breaches of protocol surprise the Professor. Bogotá calms Denver's anxieties. With time running out, Palermo initiates the "Flipper" plan.         
       S03E05:
+        title: Boom, Boom, Ciao     
         summary: The Professor shocks officials with his latest stunt, but in response, a new inspector rattles Raquel. Palermo and Nairobi get into a heated argument.         
       S03E06:
+        title: Everything Seemed Insignificant     
         summary: Just as Inspector Sierra orchestrates a plan to sneak a team into the Bank of Spain, the Professor and Raquel lose communication with Palermo.        
       S03E07:
+        title: A Quick Vacation     
         summary: Tokyo's happiness turns bittersweet. Ángel closes in on a quarreling Raquel and the Professor. Authorities offer a multimillion-dollar reward for tips.         
       S03E08:
+        title: Astray     
         summary: Tokyo attempts to drown her sorrows. Sierra uses personal tactics to target a vulnerable Nairobi, while Suárez continues to hunt down Raquel.        
       S04E01:
+        title: Game Over     
         summary: Anger and grief heighten tensions between the group. The Professor, while in mourning, attempts to make a daring and dangerous escape.         
       S04E02:
+        title: Berlin's Wedding     
         summary: Palermo shocks the group with his actions. Sierra pressures her subject to take a deal. The Professor remembers his brother's wedding.       
       S04E03:
+        title: Anatomy Lesson     
         summary: The Professor's mole attempts to pass along his message to the person inside the tent. Denver's jealousy toward Mónica and Rio's friendship heightens.        
       S04E04:
+        title: Pasodoble     
         summary: In the past, Berlin predicts that Gandía will cause problems for the operation. Sierra's interrogation of Lisbon leads to a personal revelation.        
       S04E05:
+        title: 5 Minutes Earlier     
         summary: Denver turns to an undercover source for help. Nairobi attempts to motivate her team as the danger around them intensifies.        
       S04E06:
+        title: TKO    
         summary: With Nairobi held hostage, Gandía negotiates with the crew. The Professor desperately seeks a new plan to save his team.        
       S04E07:
+        title: Strike the Tent     
         summary: The group reels following the attack on one of their own. The Professor puts his adjusted plan in motion with the help of new recruits and Palermo.        
       S04E08:
+        title: The Paris Plan     
         summary: The Professor, Benjamin and the others attempt to free Lisbon. Tokyo's anger threatens her faith in the plan. Sierra takes matters into her own hands
         
