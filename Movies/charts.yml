@@ -54,7 +54,7 @@ collections:
     sync_mode: sync
     collection_order: custom
     summary: Top 250 Movies from IMDB over the years
-    url_poster: https://i.imgur.com/XI1HbVj.jpg
+    url_poster: https://i.imgur.com/dEBMu67.jpg
     url_background: https://i.imgur.com/E4z4kN2.jpg
     add_to_arr: false
     
