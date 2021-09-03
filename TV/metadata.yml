@@ -42,7 +42,11 @@ metadata:
         title: "Part 4"
         summary: >-
               Lives are on the line as the Professor's plan begins to unravel and the crew must fend off enemies from both inside and outside the Bank of Spain.
-#        url_poster: https://i.imgur.com/9skQ9t2.jpg             
+#        url_poster: https://i.imgur.com/9skQ9t2.jpg
+      5:
+        title: "Part 5"
+        summary: >-
+              The gang has been in the Bank of Spain for more than 100 hours and the Professor is at risk. To make matters worse, a new adversary is coming: the army.
     episodes:
       S01E01:
         title: Episode 1
@@ -166,4 +170,19 @@ metadata:
       S04E08:
         title: The Paris Plan     
         summary: The Professor, Benjamin and the others attempt to free Lisbon. Tokyo's anger threatens her faith in the plan. Sierra takes matters into her own hands
+      S05E01:
+        title: The End of the Road     
+        summary: The Professor faces off with Sierra as Tamayo raises the stakes of the negotiations by calling the army. In the past, Berlin meets with a family member.         
+      S05E02:
+        title: Do You Believe in Reincarnation?     
+        summary: Arturo seizes an opportunity to fight back while escalating a personal vengeance. Lisbon makes a crucial discovery.       
+      S05E03:
+        title: Welcome to the Spectacle of Life     
+        summary: A betrayal and an emergency both catch Sierra by surprise. Palermo rallies the troops as the army closes in on the gang.        
+      S05E04:
+        title: Your Place in Heaven    
+        summary: With Helsinki's life in danger, the thieves mount a covert counter attack. Years earlier, Berlin and his son conduct their first heist together.       
+      S05E05:
+        title: Live Many Lives    
+        summary: While surrounded by gunfire and trapped in the kitchen, Tokyo reminisces about her first love and her initial encounter with the Professor.       
         
