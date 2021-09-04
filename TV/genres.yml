@@ -1,9 +1,17 @@
 
 
 
+
+templates:
+  Plex Genre:
+    plex_search:
+      genre: <<genre>>
+    sort_title: +4_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
 collections:
-  Documentary Movies:
+  Documentary Shows:
     template: { name: Plex Genre, genre: Documentary, num: 1 }
-    summary: Documentary films from all time
-    url_poster: https://theposterdb.com/api/assets/51430
+    summary: Documentary shows from all time
+    url_poster: https://theposterdb.com/api/assets/47379
     add_to_arr: false
