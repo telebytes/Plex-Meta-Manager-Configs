@@ -1,1 +1,9 @@
 
+
+
+collections:
+  Documentary Movies:
+    template: { name: Plex Genre, genre: Documentary, num: 1 }
+    summary: Documentary films from all time
+    url_poster: https://theposterdb.com/api/assets/51430
+    add_to_arr: false
