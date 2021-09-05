@@ -24,9 +24,22 @@ templates:
     sort_title: +3_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
+  Plex Path:
+    all: true
+    filters:
+      filepath:
+        - <<folder>>
+    sort_title: +3_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
 collections:
   Documentary Shows:
     template: { name: Plex Genre, genre: Documentary, num: 1 }
     summary: Documentary shows from all time
+    url_poster: https://theposterdb.com/api/assets/47379
+    add_to_arr: false
+  Indian Shows:
+    template: { name: Plex Path, folder: Documentary, num: 2 }
+    summary: Indian Shows from various streaming services and times.
     url_poster: https://theposterdb.com/api/assets/47379
     add_to_arr: false
