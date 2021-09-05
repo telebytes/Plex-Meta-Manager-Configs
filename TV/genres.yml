@@ -39,7 +39,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/47379
     add_to_arr: false
   Indian Shows:
-    template: { name: Plex Path, folder: Documentary, num: 2 }
+    template: { name: Plex Path, folder: TV-Indian, num: 2 }
     summary: Indian Shows from various streaming services and times.
-    url_poster: https://theposterdb.com/api/assets/47379
+    url_poster: https://i.imgur.com/fD59ZH4.jpg
     add_to_arr: false
