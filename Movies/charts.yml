@@ -75,7 +75,7 @@ collections:
     summary: Popular Movies across the internet
     url_poster: https://i.imgur.com/HhAHgQV.jpg
     
-   My Watchlist:
+  My Watchlist:
     template: { name: Chart, num: 4 }
     trakt_watchlist: me
     summary: Movies I will be watching
