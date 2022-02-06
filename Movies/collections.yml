@@ -1,1 +1,10 @@
 
+  Wizarding World:
+    trakt_list: https://trakt.tv/users/rokerzsona/lists/wizarding-world?sort=rank,asc
+    collection_order: custom
+    collection_mode: hide
+    sort_title: +52_Wizarding_World
+    summary: The Wizarding World is a fantasy media franchise and shared fictional universe centred on a series of films, based on the Harry Potter novel series by J. K. Rowling.
+    url_poster: https://theposterdb.com/api/assets/166278
+    url_background: https://i.pinimg.com/originals/7a/ad/36/7aad364f2992093a84e324625c46fca0.jpg
+    add_to_arr: false
