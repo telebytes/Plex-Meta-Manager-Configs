@@ -17,6 +17,7 @@
 ##                         Movies Collection                            ##
 ##########################################################################
 
+collections:
   Wizarding World:
     trakt_list: https://trakt.tv/users/rokerzsona/lists/wizarding-world?sort=rank,asc
     collection_order: custom
