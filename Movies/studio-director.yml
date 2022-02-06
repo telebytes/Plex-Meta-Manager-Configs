@@ -48,7 +48,7 @@ collections:
     url_background: https://i.imgur.com/fk5CaE9.jpg
     add_to_arr: false
     
-  The Infinity Saga:
+  Marvel Cinematic Universe:
     trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     collection_order: custom
     collection_mode: hide
