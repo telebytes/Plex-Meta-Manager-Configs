@@ -1,3 +1,21 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##          ___  ___         _ _       _           _                    ##
+##          |  \/  |        | (_)     | |         | |                   ##
+##          | .  . | ___  __| |_  __ _| |__  _   _| |_ ___  ___         ##
+##          | |\/| |/ _ \/ _` | |/ _` | '_ \| | | | __/ _ \/ __|        ##
+##          | |  | |  __/ (_| | | (_| | |_) | |_| | ||  __/\__ \        ##
+##          \_|  |_/\___|\__,_|_|\__,_|_.__/ \__, |\__\___||___/        ##
+##                                            __/ |                     ##
+##                                           |___/                      ##
+##                                                                      ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+##                         Movies Collection                            ##
+##########################################################################
 
   Wizarding World:
     trakt_list: https://trakt.tv/users/rokerzsona/lists/wizarding-world?sort=rank,asc
@@ -7,4 +25,13 @@
     summary: The Wizarding World is a fantasy media franchise and shared fictional universe centred on a series of films, based on the Harry Potter novel series by J. K. Rowling.
     url_poster: https://theposterdb.com/api/assets/166278
     url_background: https://i.pinimg.com/originals/7a/ad/36/7aad364f2992093a84e324625c46fca0.jpg
+    add_to_arr: false
+  Star Wars:
+    trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline
+    collection_order: custom
+    collection_mode: hide
+    sort_title: +53_Star_Wars
+    summary: An epic space-opera theatrical film series, which depicts the adventures of various characters "a long time ago in a galaxy far, far away…."
+    url_poster: https://theposterdb.com/api/assets/4448
+    url_background: https://wallpaperaccess.com/full/11794.png
     add_to_arr: false
