@@ -41,16 +41,7 @@ collections:
   The Infinity Saga:
     plex_search:
       all:
-        title:
-          - "The Infinity Saga - Phase 1: Part 1"
-          - "The Infinity Saga - Phase 1: Part 2"
-          - "The Infinity Saga - Phase 1: Part 3"
-          - "The Infinity Saga - Phase 2: Part 4"
-          - "The Infinity Saga - Phase 2: Part 5"
-          - "The Infinity Saga - Phase 2: Part 6"
-          - "The Infinity Saga - Phase 3: Part 7"
-          - "The Infinity Saga - Phase 3: Part 8"
-          - "The Infinity Saga - Phase 3: Part 9"
+        title: The Infinity Saga
     collection_order: custom
     collection_mode: hide
     sort_title: +54_Infinity Saga
