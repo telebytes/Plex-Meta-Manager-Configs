@@ -35,3 +35,25 @@
     url_poster: https://theposterdb.com/api/assets/4448
     url_background: https://wallpaperaccess.com/full/11794.png
     add_to_arr: false
+    
+  The Infinity Saga:
+    plex_search:
+      all:
+        title:
+          - "The Infinity Saga - Phase 1: Part 1"
+          - "The Infinity Saga - Phase 1: Part 2"
+          - "The Infinity Saga - Phase 1: Part 3"
+          - "The Infinity Saga - Phase 2: Part 4"
+          - "The Infinity Saga - Phase 2: Part 5"
+          - "The Infinity Saga - Phase 2: Part 6"
+          - "The Infinity Saga - Phase 3: Part 7"
+          - "The Infinity Saga - Phase 3: Part 8"
+          - "The Infinity Saga - Phase 3: Part 9"
+    collection_order: custom
+    collection_mode: hide
+    sort_title: +54_Infinity Saga
+    summary: "This cut contains everything in the Marvel Cinematic Universe timeline from Iron Man (2008) to Endgame (2019). For instance, the whole thing opens with the Dark Elves from Thor Dark World because that happened thousands of years ago. Then it progresses through the timeline by year in universe. There’s a lot of fun cutting around in Phase 1 between Iron Man, Thor and Hulk and in Phase 3 with Civil War and some Spidey stuff, just for example. It has been updated to include key scenes from the D+ shows and Black Widow (2021).
+Every Marvel One Shot is included. There’s also deleted, alternate, and extended scenes from almost every movie. There are also scenes only from the Phase 1 and 2 box sets and the Infinity Saga box set. There’s also extra Marvel content like Team Thor and other random bonus content. There are so many great deleted scenes that feature cool character moments but were cut for time. Well that isn't an issue here. There are some deleted scenes that have some unfinished VFX, but it shouldn't be anything that will take you out the experience too much."
+    url_poster: https://i.imgur.com/xlF5UaI.png
+    url_background: https://i.redd.it/pdz1ahzcmis71.jpg
+    add_to_arr: false
