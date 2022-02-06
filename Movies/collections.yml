@@ -26,6 +26,7 @@
     url_poster: https://theposterdb.com/api/assets/166278
     url_background: https://i.pinimg.com/originals/7a/ad/36/7aad364f2992093a84e324625c46fca0.jpg
     add_to_arr: false
+    
   Star Wars:
     trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline
     collection_order: custom
