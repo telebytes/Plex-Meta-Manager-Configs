@@ -17,7 +17,7 @@
 ##                         Playlists                                    ##
 ##########################################################################
 
-collections:
+playlists:
   My Watchlist:
     trakt_watchlist: me
     libraries: Movies
