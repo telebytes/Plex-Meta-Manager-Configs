@@ -24,7 +24,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     summary: Movies I plan to watch
-  My Watchlist:
+  Cloud's Watchlist:
     trakt_watchlist: ginint
     libraries: Movies
     collection_order: custom
