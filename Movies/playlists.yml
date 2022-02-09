@@ -19,14 +19,14 @@
 
 playlists:
   My Watchlist:
-    trakt_watchlist: me
+    trakt_list: https://trakt.tv/users/rokerzsona/watchlist?sort=rank,asc
     libraries: Movies
     collection_order: custom
     sync_mode: sync
     summary: Movies I plan to watch
     url_poster: https://i.imgur.com/sk9Uo9v.jpg
   Cloud's Watchlist:
-    trakt_watchlist: ginint
+    trakt_list: https://trakt.tv/users/ginint/watchlist?sort=rank,asc
     libraries: Movies
     collection_order: custom
     sync_mode: sync
